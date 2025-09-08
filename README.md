@@ -9,8 +9,11 @@ This project is a comprehensive analysis of the Titanic disaster dataset. The go
 Using a combination of data cleaning, exploratory data analysis (EDA), and powerful visualizations, the analysis revealed several critical insights:
 
 * **Gender:** There was a significant difference in survival rates based on gender. A remarkable **74% of females survived**, compared to only **19% of males**.
+![Survival Rate by Gender](https://github.com/dpriestley09/Titanic_Survivor_Analysis/blob/main/titanic%20gender.png)
 * **Passenger Class:** Socioeconomic status played a major role. Passengers in **first class had a 63% survival rate**, while those in **third class had a survival rate of just 24%**.
+![Survival Rate by Passenger Class](https://github.com/dpriestley09/Titanic_Survivor_Analysis/blob/main/titanic%20class.png)
 * **Age:** The age of a passenger also impacted their chance of survival. The data shows that a higher proportion of **children (under 10 years old)** survived the disaster, while the survival rates for young and middle-aged adults were notably lower.
+![Age Distribution by Survival Status](https://github.com/dpriestley09/Titanic_Survivor_Analysis/blob/main/titanic%20age.png)
 * **Alone vs. With Family:** Passengers traveling with a family had a higher survival rate (**51%**) than those who were traveling alone (**30%**).
 
 ---
